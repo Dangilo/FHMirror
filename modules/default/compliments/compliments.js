@@ -12,25 +12,25 @@ Module.register("compliments", {
 	defaults: {
 		compliments: {
 			anytime: [
-				"Hey there sexy!"
+				"Wilkommen im SmartRoom!"
 			],
 			morning: [
-				"Good morning, handsome!",
-				"Enjoy your day!",
-				"How was your sleep?"
+				"Guten morgen!",
+				"Genieße deinen Tag!",
+				"Gut geschlafen?"
 			],
 			afternoon: [
-				"Hello, beauty!",
-				"You look sexy!",
-				"Looking good today!"
+				"Mittag war gut?",
+				"Zeit für ein Kaffee!",
+				"Gut siehst du heute aus!"
 			],
 			evening: [
-				"Wow, you look hot!",
-				"You look nice!",
-				"Hi, sexy!"
+				"Zeit nach hause zugehen!",
+				"Immernoch hier?",
+				"Schlaf gut!"
 			]
 		},
-		updateInterval: 30000,
+		updateInterval: 20000,
 		remoteFile: null,
 		fadeSpeed: 4000,
 		morningStartTime: 3,

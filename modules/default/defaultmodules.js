@@ -9,6 +9,7 @@
 
 var defaultModules = [
 	"alert",
+	"fhwedel",
 	"calendar",
 	"clock",
 	"compliments",
@@ -16,7 +17,8 @@ var defaultModules = [
 	"helloworld",
 	"newsfeed",
 	"weatherforecast",
-	"updatenotification"
+	"updatenotification",
+
 ];
 
 /*************** DO NOT EDIT THE LINE BELOW ***************/
