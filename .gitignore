@@ -64,6 +64,7 @@ Temporary Items
 /modules/**
 !/modules/default
 !/modules/default/fhWedel
+!/modules/MMM-PIR-Sensor
 !/modules/default/**
 !/modules/README.md**
 
