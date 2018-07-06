@@ -15,13 +15,14 @@ Module.register("compliments", {
 				"Wilkommen im SmartRoom!"
 			],
 			morning: [
-				"Guten morgen!",
+				"Guten Morgen!",
 				"Genieße deinen Tag!",
-				"Gut geschlafen?"
+				"Gut geschlafen?",
+				"Heute mal einen Döner?"
 			],
 			afternoon: [
 				"Mittag war gut?",
-				"Zeit für ein Kaffee!",
+				"Zeit für einen Kaffee!",
 				"Gut siehst du heute aus!"
 			],
 			evening: [
